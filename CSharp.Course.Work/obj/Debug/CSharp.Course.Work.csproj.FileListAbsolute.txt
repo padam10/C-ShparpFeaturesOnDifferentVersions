@@ -1,0 +1,16 @@
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\bin\Debug\CSharp.Course.Work.dll.config
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\bin\Debug\CSharp.Course.Work.dll
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\bin\Debug\CSharp.Course.Work.pdb
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\bin\Debug\nunit.framework.dll
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\bin\Debug\System.ValueTuple.dll
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\bin\Debug\nunit.framework.xml
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\obj\Debug\CSharp.Course.Work.csproj.App.config
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\obj\Debug\CSharp.Course.Work.csprojResolveAssemblyReference.cache
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\obj\Debug\CSharp.Course.Work.dll
+C:\Users\pbhandari\Documents\Visual Studio 2017\Projects\Classwork\CSharp.Course.Work\obj\Debug\CSharp.Course.Work.pdb
